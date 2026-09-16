@@ -42,14 +42,7 @@ result.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools && npm install
-npm run geek:ssh -- template
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-ssh-hardener.git
